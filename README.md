@@ -1,3 +1,3 @@
 # ginger
 基于Flask框架开发的前后端分离API，可以能够注册普通用户和创建管理员用户，支持用户登录，验证token获取用户信息，删除用户信息，发送返回数据为json格式，有故障时捕获异常并抛出，成功获取数据时也显示相应信息。
-- 项目的实现放在博客上[](https://www.cnblogs.com/yffxwyy/p/14132915.html)
+- 项目的实现放在博客上[博客地址](https://www.cnblogs.com/yffxwyy/p/14132915.html)
